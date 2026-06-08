@@ -4,6 +4,7 @@
 
 ### How to Run
 
+Download and then import Raw_InteractiveTriviaQuiz.ipynb, moduleITG.py, scirptITG.py, testsITG.py
 Open Raw_InteractiveTriviaQuiz.ipynb in Jupyter Notebook
 Run the import moduleITG cell first
 Call moduleITG.play() to start the game
