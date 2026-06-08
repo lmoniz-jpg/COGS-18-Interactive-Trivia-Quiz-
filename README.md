@@ -9,14 +9,14 @@ Run the import moduleITG cell first
 Call moduleITG.play() to start the game
 Type 1, 2, 3, or 4 to answer each question
 
-##Files
+### Files
 
 moduleITG.py — contains all game logic and functions
 scriptITG.py — demonstrates each function individually
 testsITG.py — unit tests for the module using unittest
 Raw_InteractiveTriviaGame.ipynb — main notebook with intro, demo, and tests
 
-###Functions
+### Functions
 
 get_questions — retrieves random questions from the question bank
 check_answer — checks if a given answer is correct
@@ -25,7 +25,7 @@ get_grade — converts a percentage into a letter grade
 run_quiz — runs the interactive quiz
 play — runs the full game in one function call
 
-###Requirements
+### Requirements
 
 Python 3.x
 No external libraries required
