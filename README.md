@@ -13,8 +13,11 @@ Type 1, 2, 3, or 4 to answer each question
 ### Files
 
 moduleITG.py — contains all game logic and functions
+
 scriptITG.py — demonstrates each function individually
+
 testsITG.py — unit tests for the module using unittest
+
 Raw_InteractiveTriviaGame.ipynb — main notebook with intro, demo, and tests
 
 ### Functions
