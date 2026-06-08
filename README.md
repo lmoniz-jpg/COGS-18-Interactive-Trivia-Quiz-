@@ -9,7 +9,7 @@ Run the import moduleITG cell first
 Call moduleITG.play() to start the game
 Type 1, 2, 3, or 4 to answer each question
 
-###Files
+##Files
 
 moduleITG.py — contains all game logic and functions
 scriptITG.py — demonstrates each function individually
