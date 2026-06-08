@@ -27,10 +27,15 @@ Raw_InteractiveTriviaGame.ipynb — main notebook with intro, demo, and tests
 ### Functions
 
 get_questions — retrieves random questions from the question bank
+
 check_answer — checks if a given answer is correct
+
 calculate_score — calculates the final score and percentage
+
 get_grade — converts a percentage into a letter grade
+
 run_quiz — runs the interactive quiz
+
 play — runs the full game in one function call
 
 ### Requirements
