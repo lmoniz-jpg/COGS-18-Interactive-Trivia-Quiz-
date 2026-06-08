@@ -4,7 +4,7 @@
 
 ### How to Run
 
-Download and then import Raw_InteractiveTriviaQuiz.ipynb, moduleITG.py, scirptITG.py, testsITG.py into Jupyter Notebook
+Download and then import Raw_InteractiveTriviaQ.ipynb, moduleITG.py, scirptITG.py, testsITG.py into Jupyter Notebook
 
 Open Raw_InteractiveTriviaQuiz.ipynb in Jupyter Notebook
 
