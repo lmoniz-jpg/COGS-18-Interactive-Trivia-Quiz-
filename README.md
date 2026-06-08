@@ -5,8 +5,8 @@
 ### How to Run
 
 Open Raw_InteractiveTriviaQuiz.ipynb in Jupyter Notebook
-Run the import module cell first
-Call module.play() to start the game
+Run the import moduleITG cell first
+Call moduleITG.play() to start the game
 Type 1, 2, 3, or 4 to answer each question
 
 ###Files
